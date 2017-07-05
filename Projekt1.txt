@@ -1,0 +1,32 @@
+------------------------------------------------------------------------
+Algorytmy i struktury danych II 
+------------------------------------------------------------------------
+
+Temat: Drzewa czerwono-czarne
+
+
+
+------------------------------------------------------------------------
+
+Zadanie 1. (5 pkt.)
+
+Zaimplementuj strukturê drzewa czerwono-czarnego, której kluczami s± 
+liczby ca³kowite wraz z operacjami:
+
+SZUKAJ(T, x) - wyszukuje element o kluczu x w drzewie T
+DRUKUJ(T)    - wypisuje elementy drzewa T metod± inorder
+DODAJ(T, x)  - dodawanie elementu o kluczu x do drzewa T (wszystkie trzy przypadki)
+
+
+------------------------------------------------------------------------
+
+Zadanie 2. (+1 pkt.)
+
+Rozbuduj Zadanie 1.
+Zaimplementuj operacjê usuwania USUN(T, x) w drzewie czerwono-czarnym 
+(wszystkie 4 przypadki).
+
+
+
+
+
